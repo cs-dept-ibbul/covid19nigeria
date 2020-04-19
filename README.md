@@ -10,8 +10,8 @@ Visual Graph/Chart https://covid19project.org.ng
 Interactive Visual Map https://covid19project.org.ng/map/
 
 ### API
-For API and Endpoints information of this data, 
-visit 
+For API and Endpoints information of this data, visit 
+
 https://documenter.getpostman.com/view/10961978/SzYbyx39?version=latest
 
 **Data Sources:**
