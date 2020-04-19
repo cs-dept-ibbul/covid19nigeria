@@ -1,3 +1,4 @@
+
 The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository for Nigeria and is supported by volunteers across the country. 
 
 The data and repository for the 2019 Novel Coronavirus is maintained by the Department of Computer Science, IBB University, Lapai. This is also, supported by other Staff and Students of Faculty of Natural Sciences and Lapai Disease Research Group (LaDiG) of IBB University, Lapai.
@@ -31,6 +32,12 @@ Additional Information about the Project and Visual Dashboard: https://cs.ibbu.
 __Contact Us:__
 
 Email: abdullahi@covid19project.org.ng
+
+## To Cite this dataset:
+
+> Coronavirus COVID-19 (2019-nCoV) Data Repository for Nigeria. Abdullahi Abubakar Kawu, Abdusalam Abubakar, Said Abdulsalam. Nigeria COVID-19 Data. Available on: https://github.com/cs-dept-ibbul/covid19niigeria.
+
+
 
 __Terms of Use:__
 
