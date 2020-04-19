@@ -27,9 +27,9 @@ List of Volunteers / Contributors
 
 ## More Enquiries
 
-Additional Information about the Project and Visual Dashboard: https://cs.ibbu.edu.ng/covid19project/
+For additional Information about the Project and Visual Dashboard: https://cs.ibbu.edu.ng/covid19project/
 
-**Contacts:**
+**Project Contacts:**
 
 - [Abdullahi Abubakar Kawu](https://github.com/abdullahikawu/)
 - [Abdusalam Abubakar](https://github.com/bynalab)
