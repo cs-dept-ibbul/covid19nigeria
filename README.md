@@ -9,6 +9,7 @@ Visual Graph/Chart https://covid19project.org.ng
 
 Interactive Visual Map https://covid19project.org.ng/map/
 
+### API
 For API and Endpoints information of this data, 
 visit 
 https://documenter.getpostman.com/view/10961978/SzYbyx39?version=latest
@@ -36,7 +37,6 @@ Email: abdullahi@covid19project.org.ng
 ## To Cite this dataset:
 
 > Coronavirus COVID-19 (2019-nCoV) Data Repository for Nigeria. Abdullahi Abubakar Kawu, Abdusalam Abubakar, Said Abdulsalam. Nigeria COVID-19 Data. Available on: https://github.com/cs-dept-ibbul/covid19niigeria.
-
 
 
 __Terms of Use:__
