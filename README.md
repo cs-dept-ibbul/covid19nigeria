@@ -3,12 +3,11 @@ The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository for Nigeria is c
 This is the data repository for the 2019 Novel Coronavirus Visual Dashboard operated under the Department of Computer Science, IBB University, Lapai. This is also, supported by other Staff and Students of Faculty of Natural Sciences and Lapai Disease Research Group (LaDiG) of IBB University, Lapai.
 
 Use Cases of the Data:
-Visual Map https://covid19project.org.ng/map/
-Visual Graph/Chart https://covid19project.org.ng/chart/
+Visual Graph/Chart https://covid19project.org.ng
+Interactive Visual Map https://covid19project.org.ng/map/
 
 For API and Endpoints information of this data, visit 
 https://documenter.getpostman.com/view/10961978/SzYbyx39?version=latest
-
 
 Data Sources:
 Nigeria Centre for Disease Control (NCDC) https://ncdc.gov.ng 
